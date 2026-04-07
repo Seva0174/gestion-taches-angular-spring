@@ -1,7 +1,0 @@
-com/todo/app/WebConfig$1.class
-com/todo/app/service/TaskService.class
-com/todo/app/TodoApplication.class
-com/todo/app/controller/TaskController.class
-com/todo/app/WebConfig.class
-com/todo/app/repository/TaskRepository.class
-com/todo/app/model/Task.class
